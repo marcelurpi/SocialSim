@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SocialSim.dir/main.cpp.o  -o SocialSim 
